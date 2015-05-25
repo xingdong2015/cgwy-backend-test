@@ -1,1 +1,0 @@
-# cgwy-backend-test
